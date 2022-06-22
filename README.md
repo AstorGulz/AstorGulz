@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AstorGulz
-- 👀 I’m interested in datamining and datavisualization
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on summerprojects
+- 👀 I’m interested in datamining, datavisualization and creation of musical applications
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on musical projects
 - 📫 How to reach me: astorgulz@hotmail.com
 
 <!---
